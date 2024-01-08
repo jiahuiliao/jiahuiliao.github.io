@@ -66,10 +66,12 @@
   ],
   "volunteer": [
     {
-      "name": "Game Dev. Club, University of Hawaii at Manoa",
-      "position": "Coding Officer, 2022-Present",
+      "organization": "Game Dev. Club, University of Hawaii at Manoa",
+      "position": "Coding Officer",
+      "startDate": "2022",
+        "endDate": "Present",
       "website": "https://uhmgamedev.wixsite.com/my-site",
-      "description": "Game Dev is UH Manoa's only game development focused organization. In my time as a member and officer, I have worked on a third of the games produced by the club, of which vary in genre. I have led in development as well as contributed art assets, music, and code.",
+      "summary": "Game Dev is UH Manoa's only game development focused organization. In my time as a member and officer, I have worked on a third of the games produced by the club, of which vary in genre. I have led in development as well as contributed art assets, music, and code.",
       "highlights": [
         "Hold workshops on game development",
         "Lead and assist in game development projects",
@@ -80,10 +82,10 @@
       ]
     },
     {
-      "name": "Association for Computing Machinery (ACM), University of Hawaii at Manoa",
+      "organization": "Association for Computing Machinery (ACM), University of Hawaii at Manoa",
       "position": "Marketing Manager, 2023-Present",
       "website": "https://acmmanoa.org/pages/about/",
-      "description": "ACMManoa is the largest computer science organization at UH Manoa. As a marketing manager, I am responsible for creating graphics, updating promotional material, and assist in communications."
+      "summary": "ACMManoa is the largest computer science organization at UH Manoa. As a marketing manager, I am responsible for creating graphics, updating promotional material, and assist in communications."
     },
     {
       "organization": "Honolulu Chinatown Lions Club",
