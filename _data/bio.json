@@ -1,113 +1,124 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jiahui Liao",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "picture": "https://github.com/jiahuiliao.png",
+    "email": "jiahuil@hawaii.edu",
+    "phone": "808-892-9808",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jiahuiliao", "url": "http://github.com/jiahuiliao" },
+      { "network": "linkedin", "username": "jiahuiliao", "url": "http://linkedin.com/in/jiahuiliao" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Software Engineering" },
+    { "name": "Graphic Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java", "Javascript", "HTML", "CSS", "React"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Unix Command Line", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2020",
       "endDate": "Present",
       "courses": [
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 141: Discrete Mathematics for Computer Science I",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 241: Discrete Mathematics for Computer Science II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "ICS 369: Computational Media Systems",
+        "ICS 466: Design for Mobile Devices",
+        "ICS 469: Cognitive Science"
+      ],
+      "extracurricular": [
+        {
+          "name": "Association for Computing Machinery (ACM), University of Hawaii at Manoa",
+          "position": "Marketing Manager, 2023-Present",
+          "website": "https://acmmanoa.org/pages/about/",
+          "description": "ACMManoa is the largest computer science organization at UH Manoa. As a marketing manager, I am responsible for creating graphics, updating promotional material, and assist in communications."
+        },
+        {
+          "name": "Game Dev. Club, University of Hawaii at Manoa",
+          "position": "Coding Officer, 2022-Present",
+          "website": "https://uhmgamedev.wixsite.com/my-site",
+          "description": "Game Dev is UH Manoa's only game development focused organization. In my time as a member and officer, I have worked on a third of the games produced by the club, of which vary in genre. I have led in development as well as contributed art assets, music, and code.",
+          "highlights": [
+            "Hold workshops on game development",
+            "Lead and assist in game development projects",
+            "Organize and moderate speaker events with industry professionals",
+            "Organize and moderate social events, including related finances",
+            "Create graphics and promotional material for events and projects",
+            "Implement changes in club structure including responsibilities of officers and organization of club activities."
+          ]
+        }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Nagatani Academic Center",
+      "position": "Computer Support Specialist",
+      "website": "https://manoa.hawaii.edu/undergrad/saas/",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Nagatani Academic Center is home to UH Manoa's Student Athelete Academic Services. As Computer Support, I maintain computer systems, provide technical support, and update the website.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain and update website using knowledge of Wordpress, HTML, and CSS",
+        "Provide technical support for students and faculty",
+        "Maintain software and hardware of computer systems"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Honolulu Chinatown Lions Club",
+      "website": "https://www.e-clubhouse.org/sites/honoluluchinatownhi/",
+      "position": "Director of Marketing & Communications",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Honolulu Chinatown Lions Club seeks to serve the community through volunteer work and fundraising. They are the Honolulu Chinatown chapter of Lions Club International, the world's largest service club organization.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Create and oversee development of monthly newsletter",
+        "Maintain data and records of club members and activities",
+        "Attend board meetings, assisting in problem solution and decision making"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Association of Computing Machinery Certificate of Appreciation",
+      "date": "2023",
+      "awarder": "ACM Manoa",
+      "summary": "Awarded in recognition for my contributions and commitment towards Game Dev club, a Special Interest Group (SIG) under ACM."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Stronger Together Hawaii Scholarship",
+      "date": "2020",
+      "awarder": "Hawaii Community Foundation",
+      "summary": "Given to students who have been impacted by COVID-19."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarship for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     }
   ],
   "references": [
