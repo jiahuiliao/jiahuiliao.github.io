@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jiahuiliao", "url": "http://github.com/jiahuiliao" },
-      { "network": "linkedin", "username": "jiahuiliao", "url": "http://linkedin.com/in/jiahuiliao" }
+      { "network": "github", "username": "jiahuiliao", "url": "http://github.com/jiahuiliao"},
+      { "network": "linkedin", "username": "jiahuiliao", "url": "http://linkedin.com/in/jiahuiliao"}
     ]
   },
   "interests": [
@@ -46,28 +46,6 @@
         "ICS 369: Computational Media Systems",
         "ICS 466: Design for Mobile Devices",
         "ICS 469: Cognitive Science"
-      ],
-      "extracurricular": [
-        {
-          "name": "Association for Computing Machinery (ACM), University of Hawaii at Manoa",
-          "position": "Marketing Manager, 2023-Present",
-          "website": "https://acmmanoa.org/pages/about/",
-          "description": "ACMManoa is the largest computer science organization at UH Manoa. As a marketing manager, I am responsible for creating graphics, updating promotional material, and assist in communications."
-        },
-        {
-          "name": "Game Dev. Club, University of Hawaii at Manoa",
-          "position": "Coding Officer, 2022-Present",
-          "website": "https://uhmgamedev.wixsite.com/my-site",
-          "description": "Game Dev is UH Manoa's only game development focused organization. In my time as a member and officer, I have worked on a third of the games produced by the club, of which vary in genre. I have led in development as well as contributed art assets, music, and code.",
-          "highlights": [
-            "Hold workshops on game development",
-            "Lead and assist in game development projects",
-            "Organize and moderate speaker events with industry professionals",
-            "Organize and moderate social events, including related finances",
-            "Create graphics and promotional material for events and projects",
-            "Implement changes in club structure including responsibilities of officers and organization of club activities."
-          ]
-        }
       ]
     }
   ],
@@ -87,6 +65,26 @@
     }
   ],
   "volunteer": [
+    {
+      "name": "Game Dev. Club, University of Hawaii at Manoa",
+      "position": "Coding Officer, 2022-Present",
+      "website": "https://uhmgamedev.wixsite.com/my-site",
+      "description": "Game Dev is UH Manoa's only game development focused organization. In my time as a member and officer, I have worked on a third of the games produced by the club, of which vary in genre. I have led in development as well as contributed art assets, music, and code.",
+      "highlights": [
+        "Hold workshops on game development",
+        "Lead and assist in game development projects",
+        "Organize and moderate speaker events with industry professionals",
+        "Organize and moderate social events, including related finances",
+        "Create graphics and promotional material for events and projects",
+        "Implement changes in club structure including responsibilities of officers and organization of club activities."
+      ]
+    },
+    {
+      "name": "Association for Computing Machinery (ACM), University of Hawaii at Manoa",
+      "position": "Marketing Manager, 2023-Present",
+      "website": "https://acmmanoa.org/pages/about/",
+      "description": "ACMManoa is the largest computer science organization at UH Manoa. As a marketing manager, I am responsible for creating graphics, updating promotional material, and assist in communications."
+    },
     {
       "organization": "Honolulu Chinatown Lions Club",
       "website": "https://www.e-clubhouse.org/sites/honoluluchinatownhi/",
